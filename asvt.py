@@ -55,7 +55,7 @@ class Gate:
 class LogicSimPro:
     def __init__(self, root):
         self.root = root
-        self.root.title("Logic Pro - Node Delete Fixed")
+        self.root.title("Logic System")
         self.root.geometry("1200x850")
         self.gates = []
         self.drag_item = None
